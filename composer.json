@@ -17,5 +17,10 @@
     "url": "git://github.com/Leaflet/Leaflet.heat.git"
   },
   "main": "dist/leaflet-heat.js",
-  "minimum-stability" : "dev"
+  "minimum-stability" : "dev",
+  "extra": {
+        "branch-alias": {
+            "dev-gh-pages": "1.2-dev"
+        }
+    }
 }
